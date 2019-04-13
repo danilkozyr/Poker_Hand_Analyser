@@ -10,14 +10,4 @@ Suits are: H - hearts, D - diamonds, C- Clubs and S - spades.
 
 Duplicate cards are illegal.
 
-The program should analyze a single hand and produce one of the following outputs:
-    •   Royal flush
-    •   Straight flush
-    •   Four of a kind
-    •   Full house
-    •   Flush
-    •   Straight
-    •   Three of a kind
-    •   Two pair
-    •   One pair
-    •   No pair
+The program should analyze a single hand and produce one of the following outputs: Royal flush, Straight flush, Four of a kind, Full house, Flush, Straight, Three of a kind, Two pair, One pair, No pair.
